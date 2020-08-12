@@ -1,0 +1,10 @@
+name: ohw20-proj-pyxpcm
+channels:
+  - conda-forge
+dependencies:
+  - xarray
+  - dask
+  - scikit-learn
+  - matplotlib
+  - cartopy
+  - seaborn
