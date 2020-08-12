@@ -2,10 +2,10 @@
 OceanHackWeek 2020 project on pyXpcm
 
 ## Installation
-`git clone https://github.com/oceanhackweek/ohw20-proj-pyxpcm.git
+```git clone https://github.com/oceanhackweek/ohw20-proj-pyxpcm.git
 conda env create -f ohw20-proj-pyxpcm.yml
 conda activate ohw20-proj-pyxpcm
-pip install pyxpcm`
+pip install pyxpcm```
 
 ## Introduction
 Once we've figured out what we're going to do, put it here.
