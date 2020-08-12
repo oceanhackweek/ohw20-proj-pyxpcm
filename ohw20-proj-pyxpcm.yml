@@ -9,3 +9,5 @@ dependencies:
   - cartopy
   - seaborn
   - jupyterlab
+  - argopy
+  - bottleneck
